@@ -1,0 +1,82 @@
+[
+    {
+        "title": "Winter's Fury Unleashed",
+        "author": "Mistral Medium",
+        "host": "Poe",
+        "date": "2024-02-17",
+        "prompt": "The poem should be about a winter storm in Texas",
+        "text": [
+            "In the heart of Texas, a storm brews,",
+            "A winter's fury, long overdue.",
+            "Snowflakes dance in the gusty wind,",
+            "Nature's icy wrath, it does begin.",
+            "Frozen landscapes, a rare sight,",
+            "As the Lone Star State is cloaked in white.",
+            "Powerlines tremble, trees bow low,",
+            "Winter's might on full display, like a foe.",
+            "But Texans strong, they face the cold,",
+            "United in spirit, brave and bold.",
+            "Embracing the winter storm's unfold,",
+            "In their resilient hearts, a story told."
+        ]
+    },
+    {
+        "title": "Alton Shivers",
+        "author": "Gemini Advanced",
+        "host": "Google",
+        "date": "2024-02-17",
+        "prompt": "Write a free verse poem in the style of Frank O'Hara about a winter storm in Alton, Illinois",
+        "text": [
+            "Coffee steam swirling like the Mississippi",
+            "under this ice-glazed sky. Squirrels hunker down",
+            "like old men sipping shots at Tony's Bar.",
+            "Even the Clark Bridge has a chill,",
+            "usually so grand above the frozen water.",
+            "I zip my jacket higher, collar against the wind,",
+            "wishing for a slice of pecan pie at My Just Desserts.",
+            "Alton shivers, but inside, there's warmth to be found."
+        ]
+    },
+    {
+        "title": "Winter in Alton",
+        "author": "Claude-instant-100k",
+        "host": "Poe",
+        "date": "2024-02-17",
+        "prompt": "Write a free verse poem in the style of Frank O'Hara about a winter storm in Alton, Illinois",
+        "text": [
+            "The wind whips icicles along Pearl Street",
+            "as flurries gather in drifts against storefronts closed.",
+            "Down by the river frozen solid as a marble,",
+            "a lone jogger braves the blast in ski cap and gloves.",
+            "Inside Coffee Connection the fire crackles warm,",
+            "friends huddle over cups escaped from the storm.",
+            "Alton holds fast against winter's assault,",
+            "finds comfort together 'til spring's thaw calls all."
+        ]
+    },
+    {
+        "title": "Ice Howl in Alton",
+        "author": "ChatGPT-4",
+        "host": "OpenAI",
+        "date": "2024-02-17",
+        "prompt": "Create a poem in the style of Allen Ginsberg about an ice storm in Alton, Illinois",
+        "text": [
+            "Oh Alton, in the grasp of winter's fierce embrace,",
+            "Icy fingers clawing at the Mississippi's face.",
+            "Frozen whispers in the streets, where silence roams,",
+            "Glassy sheen over homes, where warmth once bloomed.",
+            "Howl, oh wind, with your frost-laden breath,",
+            "Turning day into night, life into the specter of death.",
+            "Trees stand naked, shivering in the cold's unyielding grip,",
+            "Branches like skeletal hands, from which icy daggers drip.",
+            "In the heart of the storm, there's a beat, a pulse, a cry,",
+            "A community's spirit, refusing to bow, to break, to die.",
+            "Together, in the face of the howling, haunting freeze,",
+            "Alton stands resilient, like a monument in the freeze.",
+            "Hearken to the ice storm, its wild, untamed song,",
+            "In its ferocity, a reminder, that even in the cold, we're strong.",
+            "For when the ice thaws and the river flows once more,",
+            "We'll remember the ice howl, and what we weathered it for."
+        ]
+    }
+]
