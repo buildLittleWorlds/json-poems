@@ -78,5 +78,44 @@
             "For when the ice thaws and the river flows once more,",
             "We'll remember the ice howl, and what we weathered it for."
         ]
+    },
+    {
+        "title": "Winter's Fury in Alton",
+        "author": "ChatGPT-3.5",
+        "host": "OpenAI",
+        "date": "2024-02-19",
+        "prompt": "Do you know who James Wright is? // Explain the difference between James Wright and Robert Frost as poets. // Give me a made-up example poem about a winter storm in Alton, Illinois by James Wright. I want the poem to show the difference between how Frost might write about the same subject. // Now give me just the James Wright poem again. But don't use stanzas. Vary the line lengths and use the free verse style of James Wright. // That's not a free verse poem. Explain why this is not a free verse poem with varied line lengths -- In Alton, where the Mississippi whispers tales of distant lands and ancient woes, the winter storm descends like a restless spirit, its breath a bitter chill upon the air. The streets, once bustling with life, now lie silent beneath a shroud of white, as snowflakes dance in a frenzied waltz, their icy embrace tightening with each gust. In the dim light of a solitary streetlamp, shadows linger like ghosts in the night, while the wind howls mournfully through the alleys, a lament for the warmth stolen by the cold. And in the stillness of the frozen world, I stand alone, a solitary figure, my breath a cloud of vapor in the frigid air, as I bear witness to winter's fury in Alton.",
+        "text": [
+            "In Alton, where the Mississippi",
+            "whispers tales of distant lands",
+            "and ancient woes,",
+            "the winter storm descends",
+            "like a restless spirit,",
+            "its breath a bitter chill",
+            "upon the air.",
+            "The streets, once bustling with life,",
+            "now lie silent beneath a shroud of white,",
+            "as snowflakes dance",
+            "in a frenzied waltz,",
+            "their icy embrace tightening",
+            "with each gust.",
+            "In the dim light",
+            "of a solitary streetlamp,",
+            "shadows linger like ghosts",
+            "in the night,",
+            "while the wind howls mournfully",
+            "through the alleys,",
+            "a lament for the warmth",
+            "stolen by the cold.",
+            "And in the stillness",
+            "of the frozen world,",
+            "I stand alone,",
+            "a solitary figure,",
+            "my breath a cloud of vapor",
+            "in the frigid air,",
+            "as I bear witness",
+            "to winter's fury",
+            "in Alton."
+        ]
     }
 ]
